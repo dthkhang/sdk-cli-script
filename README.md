@@ -1,7 +1,7 @@
 # Android SDK CLI Installer & Uninstaller
 
 ## Overview
-This script (`sdk-cli.sh`) helps you install or uninstall the Android SDK Command Line Tools on **MacOS** and **Linux**.
+This tool (`sdk-cli.sh`) helps you install or uninstall the Android SDK Command Line Tools on **MacOS** and **Linux**.
 
 > **Note:** Windows is not supported.
 
@@ -44,4 +44,4 @@ For more details, see the official OWASP MASTG documentation:
 - [https://mas.owasp.org/MASTG/tests/android/MASVS-RESILIENCE/MASTG-TEST-0038/#overview](https://mas.owasp.org/MASTG/tests/android/MASVS-RESILIENCE/MASTG-TEST-0038/#overview)
 
 ## License
-This project is provided as-is for educational and testing purposes. 
+This project is licensed under the [MIT License](LICENSE). 
